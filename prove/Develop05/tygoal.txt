@@ -1,0 +1,1 @@
+SimpleGoal,False,read scriptures,20
